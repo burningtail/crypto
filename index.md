@@ -1,4 +1,4 @@
-## Welcome to CRYPTO!
+# Welcome to CRYPTO!
 
 A cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. A defining feature of cryptocurrencies is that they are generally not issued by any central authority, rendering them theoretically immune to government interference or manipulation.
 
@@ -74,50 +74,24 @@ Now all this info about so many exchanges, staking, and so on, might be overwhel
 
 There are a few DON'Ts that you should keep in mind, in order to protect yourself:
 
-# DON'T invest more than you can afford to lose!
+### DON'T invest more than you can afford to lose!
 
-# DON'T trust the "investors" that will claim to help you make a profit (stay away especially from all the telegram groups).
+### DON'T trust the "investors" that will claim to help you make a profit (stay away especially from all the telegram groups).
 
-# DON'T put your life savings into an exchange. If you're planning to invest a high amount of money, consider using a cold wallet.
+### DON'T put your life savings into an exchange. If you're planning to invest a high amount of money, consider using a cold wallet.
 
-# DON'T panic sell, many people are quitting crypto because of FUD (Fear, Uncertainty and Doubt). HODLing is always a good idea.
+### DON'T panic sell, many people are quitting crypto because of FUD (Fear, Uncertainty and Doubt). HODLing is always a good idea.
 
  
 
 I certainly left many things unsaid, but never stop informing yourself if you want to be safe in the crypto world. Happy earnings!
 
-You can use the [editor on GitHub](https://github.com/burningtail/crypto.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+//
+//*
+//**
+/
+/*
+/**
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/burningtail/crypto.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
