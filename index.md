@@ -13,7 +13,7 @@ If you're ready to get started, let's get into the first steps.
 How to get started?
 There are several ways and places to buy and keep your crypto coins, but as a beginner, I highly recommend one of the top 3 safest and easy to use exchanges:
 
-**1. Crypto.com**
+**[1. Crypto.com](https://crypto.com/app/vgtwvsr9nv)**
 
 > The app is easy to use, has over 10 million users, and has multiple crypto-backed Visa cards that come in different tires of cashback. Besides buying and trading crypto, on this platform, you can refer an unlimited number of people.
 
@@ -25,10 +25,10 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 
 > What your friends get: $25 worth of CRO
 
-> In order to get the above benefits, don't forget to use this link when you're creating your account. If the link fails, you can simply type this in the referral box: vgtwvsr9nv
+> In order to get the above benefits, don't forget to use [this link](https://crypto.com/app/vgtwvsr9nv) when you're creating your account. If the link fails, you can simply type this in the referral box: vgtwvsr9nv
  
 
-**2. Binance**
+**[2. Binance](https://accounts.binance.com/en/register?ref=ANAPWMH1)**
 
 > Binance, one of the biggest exchanges in the world, offers a referral program too, you can use to make money from. First, you have to register on the exchange and generate a link or a scannable QR code.
 
@@ -42,10 +42,10 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 
 > What your friends get: This depends solely on if you want to share and how much you are willing to. If you have a wallet balance of less than 500 BNB (approximately $278,000), you can choose to share 5 or 10% of your 20% commission from your referral's trades. For accounts with more than 500 BNB, you can choose to share 5%-20% of your 40% commission. You can choose not to share at all too.
 
-> In order to get the above benefits, don't forget to use this link when you're creating your account. If the link fails, you can simply type this in the referral box: ANAPWMH1
+> In order to get the above benefits, don't forget to use [this link](https://accounts.binance.com/en/register?ref=ANAPWMH1) when you're creating your account. If the link fails, you can simply type this in the referral box: ANAPWMH1
  
 
-**3. Coinbase**
+**[3. Coinbase](https://www.coinbase.com/join/banica_u1)**
 
 > Coinbase comes in 3rd, at least in my own opinion, as it has higher fees and low rewards compare to the above 2.
 
@@ -59,7 +59,7 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 
 > What your friends get: Same $10 you get.
 
-> In order to get the above benefits, don't forget to use this link when you're creating your account. If the link fails, you can simply type this in the referral box: banica_u1
+> In order to get the above benefits, don't forget to use [this link](https://www.coinbase.com/join/banica_u1) when you're creating your account. If the link fails, you can simply type this in the referral box: banica_u1
 
 > Other exchanges that are safe to use: Krakken, Gemini, and perhaps a few others. However, I would stick to the top ones, as they aren't just the safest, but you also get benefits out of them.
 
