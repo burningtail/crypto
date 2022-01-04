@@ -70,6 +70,7 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 
 **Other exchanges that are safe to use: Krakken, Gemini, and perhaps a few others. However, I would stick to the top ones, as they aren't just the safest, but you also get benefits out of them.**
 
+*
 
 Now all this info about so many exchanges, staking, and so on, might be overwhelming. Take it slow, once you have an account on one or more of these exchanges, don't start throwing money in every cheap coin, hoping that everything will skyrocket overnight. Join instead a few crypto groups on your social media accounts, and keep yourself updated about the coins that people are talking about the most, focus on those that grow over the years, inform yourself about their projects, and decide on your own if you think it's a good idea to invest in them.
 
@@ -84,6 +85,7 @@ There are a few ~~DON'T~~s that you should keep in mind, in order to protect you
 **DON'T panic sell, many people are quitting crypto because of FUD (Fear, Uncertainty and Doubt). HODLing is always a good idea.**
 
  
+*
 
 I certainly left many things unsaid, but never stop informing yourself if you want to be safe in the crypto world. Happy earnings!
 
