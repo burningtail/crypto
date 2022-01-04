@@ -1,13 +1,13 @@
 # Welcome to CRYPTO!
 
-A cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. A defining feature of cryptocurrencies is that they are generally not issued by any central authority, rendering them theoretically immune to government interference or manipulation.
+Are you new to crypto and don't know where to start? I'll give you a few tips and basic rules when you're buying and perhaps trading crypto coins for the first time.
 
-Virtual currency, decentralized networks, blockchain, you probably got scared and you're about to close this tab, aren't you? It sounds scary, complicated, but once you get into it, it really isn't. Not to mention that who got into crypto years ago, when bitcoin (and I'm mentioning bitcoin here because most of the people heard of it) was really cheap, as cheap as $1300 at the beginning of 2017. I won't dare to mention that it started as low as $0.01 back in 2010. Imagine owning a small amount of bitcoin over the years, considering that its price went over $60.000 now in 2021. How many should one own to be a millionaire? 17 or more, right? If you feel like biting your nails, you're not the only one.
+To start with, a cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. A defining feature of cryptocurrencies is that they are generally not issued by any central authority, rendering them theoretically immune to government interference or manipulation.
+
+Virtual currency, decentralized networks, blockchain, you probably got scared and you're about to close this page, aren't you? It sounds scary, complicated, but once you get into it, it really isn't. Not to mention that who got into crypto years ago, when bitcoin (and I'm mentioning bitcoin here because most of the people heard of it) was really cheap, as cheap as $1300 at the beginning of 2017. I won't dare to mention that it started as low as $0.01 back in 2010. Imagine owning a small amount of bitcoin over the years, considering that its price went over $60.000 now in 2021. How many should one own to be a millionaire? 17 or more, right? If you feel like biting your nails, you're not the only one.
 
 And it's not too late for you either, people started hearing more and more about crypto and most of them are still afraid to enter this unknown world. But the more people will start using crypto, the higher will go the crypto coins' prices.
-
 There are way too many coins and way too many platforms where you can start buying and trading these crypto coins, so I'll only mention the important things to follow when getting into crypto, as well as a few tips in order to avoid getting scammed.
-
 If you're ready to get started, let's get into the first steps.
 
 How to get started?
