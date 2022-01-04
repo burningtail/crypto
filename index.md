@@ -13,7 +13,7 @@ If you're ready to get started, let's get into the first steps.
 How to get started?
 There are several ways and places to buy and keep your crypto coins, but as a beginner, I highly recommend one of the top 3 safest and easy to use exchanges:
 
-***[1. Crypto.com](https://crypto.com/app/vgtwvsr9nv)***
+### ***[1. Crypto.com](https://crypto.com/app/vgtwvsr9nv)***
 
 **The app is easy to use, has over 10 million users, and has multiple crypto-backed Visa cards that come in different tires of cashback. Besides buying and trading crypto, on this platform, you can refer an unlimited number of people.**
 **Payout: Immediate.**
@@ -30,7 +30,7 @@ There are several ways and places to buy and keep your crypto coins, but as a be
   - I think there's more but isnt's that enough already?
  
 
-***[2. Binance](https://accounts.binance.com/en/register?ref=ANAPWMH1)***
+### ***[2. Binance](https://accounts.binance.com/en/register?ref=ANAPWMH1)***
 
 **Binance, one of the biggest exchanges in the world, offers a referral program too, you can use to make money from. First, you have to register on the exchange and generate a link or a scannable QR code.**
 **Go to "Account," then click on "My referral ID." On the referral page, you would see a list of how many friends you've invited. You also see how much you've earned so far. You can invite as many people as you want.**
@@ -41,7 +41,7 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 **In order to get the above benefits, don't forget to use [this link](https://accounts.binance.com/en/register?ref=ANAPWMH1) when you're creating your account. If the link fails, you can simply type this in the referral box: ANAPWMH1**
  
 
-***[3. Coinbase](https://www.coinbase.com/join/banica_u1)***
+### ***[3. Coinbase](https://www.coinbase.com/join/banica_u1)***
 
 **Coinbase comes in 3rd, at least in my own opinion, as it has higher fees and low rewards compare to the above 2.**
 **Does Coinbase have an affiliate program? It's not a big deal but it has. On the web version, head over to the "Referrals" page. If you are using the app, tap on "Settings." After that, copy and share. Any crypto trading done by your friends has to occur within six months after they sign up. Coinbase does not require a bulk $100 trade, as trades can be a sum of $100 over 180 days. Although there are no limits on the number of people you can refer, there are limits to the amount you can earn in referral bonuses.**
