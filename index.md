@@ -16,10 +16,15 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 ### ***[1. Crypto.com](https://crypto.com/app/vgtwvsr9nv)***
 
 **The app is easy to use, has over 10 million users, and has multiple crypto-backed Visa cards that come in different tires of cashback. Besides buying and trading crypto, on this platform, you can refer an unlimited number of people.**
+
 **Payout: Immediate.**
+
 **What you get: $25 worth of CRO and up to $2000 in CRO if your friend stakes CRO (CRO meaning crypto.com's own coin and 1 CRO is about $0.16 today). In addition, you receive a trading commission of up to 50% of your friend's net trading fees.**
+
 **What your friends need to do: They must complete advanced KYC, which requires a valid ID and selfie, in addition to basic info like names and date of birth.**
+
 **What your friend gets: $25 worth of CRO.**
+
 **In order to get the above benefits, don't forget to use [this link](https://crypto.com/app/vgtwvsr9nv) when you're creating your account. If the link fails, you can simply type this in the referral box: vgtwvsr9nv**
 
 **I chose to list Crypto.com as first on the top, due to multiple reasons:**
@@ -33,23 +38,36 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 ### ***[2. Binance](https://accounts.binance.com/en/register?ref=ANAPWMH1)***
 
 **Binance, one of the biggest exchanges in the world, offers a referral program too, you can use to make money from. First, you have to register on the exchange and generate a link or a scannable QR code.**
+
 **Go to "Account," then click on "My referral ID." On the referral page, you would see a list of how many friends you've invited. You also see how much you've earned so far. You can invite as many people as you want.**
+
 **Payout: Every 24 hours, refreshed at 12:00 AM UTC.**
+
 **What you get: Between 20-40% of your friend's trading fees.**
+
 **What your friends need to do: Sign up and trade to generate rewards for you.**
+
 **What your friends get: This depends solely on if you want to share and how much you are willing to. If you have a wallet balance of less than 500 BNB (approximately $278,000), you can choose to share 5 or 10% of your 20% commission from your referral's trades. For accounts with more than 500 BNB, you can choose to share 5%-20% of your 40% commission. You can choose not to share at all too.**
+
 **In order to get the above benefits, don't forget to use [this link](https://accounts.binance.com/en/register?ref=ANAPWMH1) when you're creating your account. If the link fails, you can simply type this in the referral box: ANAPWMH1**
  
 
 ### ***[3. Coinbase](https://www.coinbase.com/join/banica_u1)***
 
 **Coinbase comes in 3rd, at least in my own opinion, as it has higher fees and low rewards compare to the above 2.**
+
 **Does Coinbase have an affiliate program? It's not a big deal but it has. On the web version, head over to the "Referrals" page. If you are using the app, tap on "Settings." After that, copy and share. Any crypto trading done by your friends has to occur within six months after they sign up. Coinbase does not require a bulk $100 trade, as trades can be a sum of $100 over 180 days. Although there are no limits on the number of people you can refer, there are limits to the amount you can earn in referral bonuses.**
+
 **Payout: Every four business days.**
+
 **What you get: $10 from every trade equivalent to $100.**
+
 **What your friends need to do: Complete account details, then make a $100 trade on Coinbase.**
+
 **What your friends get: Same $10 you get.**
+
 **In order to get the above benefits, don't forget to use [this link](https://www.coinbase.com/join/banica_u1) when you're creating your account. If the link fails, you can simply type this in the referral box: banica_u1**
+
 **Other exchanges that are safe to use: Krakken, Gemini, and perhaps a few others. However, I would stick to the top ones, as they aren't just the safest, but you also get benefits out of them.**
 
 
