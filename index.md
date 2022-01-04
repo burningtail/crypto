@@ -68,13 +68,13 @@ Now all this info about so many exchanges, staking, and so on, might be overwhel
 
 There are a few DON'Ts that you should keep in mind, in order to protect yourself:
 
-**DON'T invest more than you can afford to lose!
+**DON'T invest more than you can afford to lose!**
 
-DON'T trust the "investors" that will claim to help you make a profit (stay away especially from all the telegram groups).
+**DON'T trust the "investors" that will claim to help you make a profit (stay away especially from all the telegram groups).**
 
-DON'T put your life savings into an exchange. If you're planning to invest a high amount of money, consider using a cold wallet.
+**DON'T put your life savings into an exchange. If you're planning to invest a high amount of money, consider using a cold wallet.**
 
-DON'T panic sell, many people are quitting crypto because of FUD (Fear, Uncertainty and Doubt). HODLing is always a good idea.**
+**DON'T panic sell, many people are quitting crypto because of FUD (Fear, Uncertainty and Doubt). HODLing is always a good idea.**
 
  
 
