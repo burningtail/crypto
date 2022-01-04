@@ -22,7 +22,7 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 **What your friend gets: $25 worth of CRO.**
 **In order to get the above benefits, don't forget to use [this link](https://crypto.com/app/vgtwvsr9nv) when you're creating your account. If the link fails, you can simply type this in the referral box: vgtwvsr9nv**
 
-**I chose to list Crypto.com as top 1 due to multiple reasons:**
+**I chose to list Crypto.com as first on the top, due to multiple reasons:**
   - It's an early project I truly believe in and it has a lot of room to grow.
   - It comes with a separate [Crypto.com Exchange](https://crypto.com/exch/vgtwvsr9nv). Why separate? because it's not yet available in the US and you can imagine what's gonna happen when it will. There are extra rewards as well if you want to [create a Crypto.com Exchange account](https://crypto.com/exch/vgtwvsr9nv).
   - It comes with Crypto.com Defi app, that you will be able to use when you'll be more experienced, to hold the key phase of your cryptos and stake your coins for rewards inside the defi app itself.
