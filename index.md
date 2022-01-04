@@ -55,7 +55,7 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 
 Now all this info about so many exchanges, staking, and so on, might be overwhelming. Take it slow, once you have an account on one or more of these exchanges, don't start throwing money in every cheap coin, hoping that everything will skyrocket overnight. Join instead a few crypto groups on your social media accounts, and keep yourself updated about the coins that people are talking about the most, focus on those that grow over the years, inform yourself about their projects, and decide on your own if you think it's a good idea to invest in them.
 
-There are a few ~DON'T~s that you should keep in mind, in order to protect yourself:
+There are a few ~~DON'T~~s that you should keep in mind, in order to protect yourself:
 
 **DON'T invest more than you can afford to lose!**
 
