@@ -19,13 +19,15 @@ There are several ways and places to buy and keep your crypto coins, but as a be
 
 **Payout: Immediate.**
 
-**What you get: $25 worth of CRO and up to $2000 in CRO if your friend stakes CRO (CRO meaning crypto.com's own coin and 1 CRO is about $0.16 today). In addition, you receive a trading commission of up to 50% of your friend's net trading fees.**
+**What you get when you create your account using a referral link: $25 worth of CRO (CRO meaning crypto.com's own coin and 1 CRO is about $0.16 today).**
+
+**What you get when you also refer a friend: $25 worth of CRO and up to $2000 in CRO if your friend stakes CRO. In addition, you receive a trading commission of up to 50% of your friend's net trading fees.**
 
 **What your friends need to do: They must complete advanced KYC, which requires a valid ID and selfie, in addition to basic info like names and date of birth.**
 
 **What your friend gets: $25 worth of CRO.**
 
-**In order to get the above benefits, don't forget to use [this link](https://crypto.com/app/vgtwvsr9nv) when you're creating your account. If the link fails, you can simply type this in the referral box: vgtwvsr9nv**
+**In order for you to get the above benefits, don't forget to use [this link](https://crypto.com/app/vgtwvsr9nv) when you're creating your account. If the link fails, you can simply type this in the referral box: vgtwvsr9nv**
 
 **I chose to list Crypto.com as first on the top, due to multiple reasons:**
   - It's an early project I truly believe in and it has a lot of room to grow.
